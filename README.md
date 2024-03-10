@@ -1,7 +1,7 @@
 # _Sigma Internship Coding Challenge_ 🚀
 ## 💰💲 Algorithmic Trading Model for Portfolio Optimization:
 
-This challenge focuses on using the **Quantrocket** platform to build a minimalist trading workflow and involves pulling daily close price data for **Apple stock** for the year _2023_ 
+This challenge focuses on using the **Quantrocket** platform to build a minimalist trading workflow and involves pulling daily close price data for **Apple stock** for the year **_2023_** 
 and implementing a simple model to make buy orders.
 
 <img src= "https://github.com/prakash2903/Sigma_Challenge/blob/main/img/qr.PNG" height = 300, width = 325, align=left>
@@ -40,5 +40,9 @@ Else      (in all other cases)    --->  V(d+1) = V(d)
 
 ## Transition distribution calculation:
 Determining the probability distribution of transitioning from state _s(d)_ to different possible states using data up to day _d_.
+* Used dictionary to keep track of the counts of transitions between states. The keys represent transitions from one state to another.
+* Updated transition counts and probabilities as new data points arrive.
+* Continuously calculated probabilities based on **streaming data**.
 
+# RESULTS ✅
 
