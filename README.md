@@ -4,6 +4,10 @@
 This challenge focuses on using the **Quantrocket** platform to build a minimalist trading workflow and involves pulling daily close price data for **Apple stock** for the year _2023_ 
 and implementing a simple model to make buy orders.
 
+<img src= "https://github.com/prakash2903/Sigma_challenge/blob/main/img/qr.png" height = 200, width = 325, align=left>
+
+<img src= "https://github.com/prakash2903/Sigma_challenge/blob/main/img/AppleStock.png" height = 200, width = 325>
+
 ## Getting Started
   ☑️ Installed **QuantRocket** using **Docker**.
 
