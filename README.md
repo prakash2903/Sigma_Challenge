@@ -34,4 +34,7 @@ Else if   s(d+1) = -1 & s(d) = 0  --->  V(d+1) = V(d) - 1
 Else      (in all other cases)    --->  V(d+1) = V(d)
 ```
 
+## Transition distribution calculation:
+Determining the probability distribution of transitioning from state _s(d)_ to different possible states using data up to day _d_.
+
 
