@@ -40,7 +40,7 @@ Else      (in all other cases)    --->  V(d+1) = V(d)
 
 ## Transition distribution calculation:
 Determining the probability distribution of transitioning from state _s(d)_ to different possible states using data up to day _d_.
-* Used dictionary to keep track of the counts of transitions between states. The keys represent transitions from one state to another.
+* Used generator function to yield intermediate results.
 * Updated transition counts and probabilities as new data points arrive.
 * Continuously calculated probabilities based on **streaming data**.
 
