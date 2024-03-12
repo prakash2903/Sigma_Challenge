@@ -8,7 +8,7 @@ and implementing a simple model to make buy orders.
 
 <img src= "https://github.com/prakash2903/Sigma_Challenge/blob/main/img/AppleStock.PNG" height = 300, width = 425>
 
-## Getting Started
+## Getting Started 🏁
   ☑️ Installed **QuantRocket** using **Docker**.
 
   ☑️ Went through tutorials to understand basic platform capabilities.
@@ -45,5 +45,9 @@ Determining the probability distribution of transitioning from state _s(d)_ to d
 * Continuously calculated probabilities based on **streaming data**.
 
 # RESULTS ✅
-👉 Check **_solutions.pdf_** in the current repository for compelling plots 📊 insights and results.
+**FINAL PORTFOLIO VALUE** = 40
+
+**OPTIMAL BUY INDICES** = [6, 8, 12, 16, 21, 28, 30, 41, 50, 52, 59, 61, 69, 79, 85, 88, 94, 100, 103, 108, 110, 113, 117, 120, 123, 133, 142, 160, 164, 177, 187, 191, 207, 209, 212, 216, 218, 232, 234, 238]
+
+👉 Check **_Report.pdf_** in the current repository for detailed insights and results.
 
